@@ -1,2 +1,4 @@
-controllers\LoginController.class
+veterinariaapp\controllers\LoginController.class
+veterinariaapp\mapping\Usuario$UsuarioCredentials.class
+veterinariaapp\mapping\Usuario.class
 veterinariaapp\App.class
