@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import veterinariaapp.mapping.Usuario;
-// otras importaciones
+// otras importaciones holi
 @RestController
 public class LoginController {
 
